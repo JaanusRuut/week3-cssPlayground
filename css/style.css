@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Dancing+Script&display=swap');
+
+
+body {
+    background-color: rgb(223, 179, 123);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+
+.main{
+    border: 1px solid gray;
+    white-space: 55%;
+    margin: 1rem auto;
+}
+
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto; 
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+
+}
+
+
+.footer {
+    font-family: 'Combo', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
